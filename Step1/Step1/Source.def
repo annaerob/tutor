@@ -1,0 +1,4 @@
+LIBRARY "Step1.arx"
+EXPORTS
+    acrxEntryPoint PRIVATE
+    acrxGetApiVersion PRIVATE

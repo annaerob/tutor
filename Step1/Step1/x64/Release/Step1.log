@@ -1,0 +1,102 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: промежуточный каталог (x64\Release\) содержит файлы, которые используются совместно с другим проектом (Step1.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+cl : командная строка warning D9002: пропуск неизвестного параметра "Wp64"
+  HelloWorld.cpp
+  acrxEntryPoint.cpp
+C:\ObjectARX\inc\dbole.h(128,27): error C2061: синтаксическая ошибка: идентификатор "RECT"
+C:\ObjectARX\inc\dbole.h(133,40): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\ObjectARX\inc\dbole.h(133,40): error C2143: синтаксическая ошибка: отсутствие "," перед "&"
+C:\ObjectARX\inc\dbgrip.h(36,55): error C2061: синтаксическая ошибка: идентификатор "HMENU"
+C:\ObjectARX\inc\dbxEntryPoint.h(65,32): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\ObjectARX\inc\dbxEntryPoint.h(65,18): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "_hdllInstance"
+C:\ObjectARX\inc\dbxEntryPoint.h(71,15): error C3646: m_hdllInstance: неизвестный спецификатор переопределения
+C:\ObjectARX\inc\dbxEntryPoint.h(71,30): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\ObjectARX\inc\dbxEntryPoint.h(152,15): error C2143: синтаксическая ошибка: отсутствие ";" перед "&"
+C:\ObjectARX\inc\dbxEntryPoint.h(152,15): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\ObjectARX\inc\dbxEntryPoint.h(152,37): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+C:\ObjectARX\inc\dbxEntryPoint.h(76,21): error C2614: AcRxDbxApp: недопустимая инициализация члена: "m_hdllInstance" не является базовым классом или членом
+C:\ObjectARX\inc\dbxEntryPoint.h(80,3): error C2065: m_hdllInstance: необъявленный идентификатор
+C:\ObjectARX\inc\clipdata.h(70,17): error C3646: rectGDI: неизвестный спецификатор переопределения
+C:\ObjectARX\inc\clipdata.h(70,24): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\ObjectARX\inc\clipdata.h(72,17): error C3646: m_dwThreadId: неизвестный спецификатор переопределения
+C:\ObjectARX\inc\clipdata.h(72,29): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\ObjectARX\inc\AcPlPlotProgress.h(104,36): warning C4229: устаревший элемент: пропуск модификаторов для данных
+C:\ObjectARX\inc\AcPlPlotProgress.h(104,31): error C2065: HWND: необъявленный идентификатор
+C:\ObjectARX\inc\AcPlPlotProgress.h(104,36): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "hParent"
+C:\ObjectARX\inc\acpublishuireactors.h(143,45): error C2061: синтаксическая ошибка: идентификатор "IUnknown"
+C:\ObjectARX\inc\acpublishuireactors.h(170,44): error C2061: синтаксическая ошибка: идентификатор "IUnknown"
+C:\ObjectARX\inc\acpublishuireactors.h(214,50): error C2061: синтаксическая ошибка: идентификатор "IUnknown"
+C:\ObjectARX\inc\acpublishuireactors.h(271,57): error C2761: "void AcPublishUIReactor::OnInitPublishOptionsDialog(void)": повторное объявление члена запрещено.
+C:\ObjectARX\inc\acpublishuireactors.h(271,48): error C2065: IUnknown: необъявленный идентификатор
+C:\ObjectARX\inc\acpublishuireactors.h(271,59): error C2065: pUnk: необъявленный идентификатор
+C:\ObjectARX\inc\acpublishuireactors.h(272,72): error C2065: pInfo: необъявленный идентификатор
+C:\ObjectARX\inc\acpublishuireactors.h(272,48): error C2275: AcPublishUIReactorInfo: недопустимое использование этого типа в качестве выражения
+C:\ObjectARX\inc\acpublishuireactors.h(33): message : см. объявление "AcPublishUIReactorInfo"
+C:\ObjectARX\inc\acpublishuireactors.h(273,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\ObjectARX\inc\acpublishuireactors.h(273,1): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\ObjectARX\inc\acpublishuireactors.h(277,56): error C2761: "void AcPublishUIReactor::OnInitExportOptionsDialog(void)": повторное объявление члена запрещено.
+C:\ObjectARX\inc\acpublishuireactors.h(277,47): error C2065: IUnknown: необъявленный идентификатор
+C:\ObjectARX\inc\acpublishuireactors.h(277,58): error C2065: pUnk: необъявленный идентификатор
+C:\ObjectARX\inc\acpublishuireactors.h(278,73): error C2065: pInfo: необъявленный идентификатор
+C:\ObjectARX\inc\acpublishuireactors.h(278,49): error C2275: AcPublishUIReactorInfo: недопустимое использование этого типа в качестве выражения
+C:\ObjectARX\inc\acpublishuireactors.h(33): message : см. объявление "AcPublishUIReactorInfo"
+C:\ObjectARX\inc\acpublishuireactors.h(279,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\ObjectARX\inc\acpublishuireactors.h(279,1): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\ObjectARX\inc\acpublishuireactors.h(289,62): error C2761: "void AcPublishUIReactor::OnInitAutoPublishSettingsDialog(void)": повторное объявление члена запрещено.
+C:\ObjectARX\inc\acpublishuireactors.h(289,53): error C2065: IUnknown: необъявленный идентификатор
+C:\ObjectARX\inc\acpublishuireactors.h(289,64): error C2065: pUnk: необъявленный идентификатор
+C:\ObjectARX\inc\acpublishuireactors.h(290,77): error C2065: pInfo: необъявленный идентификатор
+C:\ObjectARX\inc\acpublishuireactors.h(290,53): error C2275: AcPublishUIReactorInfo: недопустимое использование этого типа в качестве выражения
+C:\ObjectARX\inc\acpublishuireactors.h(33): message : см. объявление "AcPublishUIReactorInfo"
+C:\ObjectARX\inc\acpublishuireactors.h(291,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\ObjectARX\inc\acpublishuireactors.h(291,1): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\ObjectARX\inc\acdmmapi.h(399,24): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\ObjectARX\inc\acdmmapi.h(399,24): error C2143: синтаксическая ошибка: отсутствие ";" перед "*"
+C:\ObjectARX\inc\acdmmapi.h(399,24): error C2433: AcDMMSheetReactorInfo::TCHAR: "virtual" не разрешается для объявлений данных
+C:\ObjectARX\inc\acdmmapi.h(399,62): error C2238: непредвиденные лексемы перед ";"
+C:\ObjectARX\inc\acdmmapi.h(614,24): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\ObjectARX\inc\acdmmapi.h(614,24): error C2143: синтаксическая ошибка: отсутствие ";" перед "*"
+C:\ObjectARX\inc\acdmmapi.h(614,24): error C2433: AcDMMSheetReactorInfo::TCHAR: "virtual" не разрешается для объявлений данных
+C:\ObjectARX\inc\acdmmapi.h(614,19): error C2086: const int AcDMMSheetReactorInfo::TCHAR: переопределение
+C:\ObjectARX\inc\acdmmapi.h(614,62): error C2238: непредвиденные лексемы перед ";"
+C:\ObjectARX\inc\acdmmapi.h(624,24): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\ObjectARX\inc\acdmmapi.h(624,24): error C2143: синтаксическая ошибка: отсутствие ";" перед "*"
+C:\ObjectARX\inc\acdmmapi.h(624,24): error C2433: AcDMMSheetReactorInfo::TCHAR: "virtual" не разрешается для объявлений данных
+C:\ObjectARX\inc\acdmmapi.h(624,19): error C2086: const int AcDMMSheetReactorInfo::TCHAR: переопределение
+C:\ObjectARX\inc\acdmmapi.h(624,62): error C2238: непредвиденные лексемы перед ";"
+C:\ObjectARX\inc\acdmmapi.h(634,24): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\ObjectARX\inc\acdmmapi.h(634,24): error C2143: синтаксическая ошибка: отсутствие ";" перед "*"
+C:\ObjectARX\inc\acdmmapi.h(634,24): error C2433: AcDMMSheetReactorInfo::TCHAR: "virtual" не разрешается для объявлений данных
+C:\ObjectARX\inc\acdmmapi.h(634,19): error C2086: const int AcDMMSheetReactorInfo::TCHAR: переопределение
+C:\ObjectARX\inc\acdmmapi.h(634,62): error C2238: непредвиденные лексемы перед ";"
+C:\ObjectARX\inc\acdmmapi.h(644,24): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\ObjectARX\inc\acdmmapi.h(644,24): error C2143: синтаксическая ошибка: отсутствие ";" перед "*"
+C:\ObjectARX\inc\acdmmapi.h(644,24): error C2433: AcDMMSheetReactorInfo::TCHAR: "virtual" не разрешается для объявлений данных
+C:\ObjectARX\inc\acdmmapi.h(644,19): error C2086: const int AcDMMSheetReactorInfo::TCHAR: переопределение
+C:\ObjectARX\inc\acdmmapi.h(644,62): error C2238: непредвиденные лексемы перед ";"
+C:\ObjectARX\inc\acdmmapi.h(919,26): error C2789: "AcDMMSheetReactorInfo::TCHAR": требуется инициализация объекта типа класса, квалифицированного как const
+C:\ObjectARX\inc\acdmmapi.h(399): message : см. объявление "AcDMMSheetReactorInfo::TCHAR"
+C:\ObjectARX\inc\arxEntryPoint.h(30,10): error C3646: localNameID: неизвестный спецификатор переопределения
+C:\ObjectARX\inc\arxEntryPoint.h(30,22): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\ObjectARX\inc\arxEntryPoint.h(75,10): error C3646: nameID: неизвестный спецификатор переопределения
+C:\ObjectARX\inc\arxEntryPoint.h(75,17): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\ObjectARX\inc\arxEntryPoint.h(149,23): error C2039: "LoadString": не является членом "`global namespace'".
+C:\ObjectARX\inc\arxEntryPoint.h(149,35): error C2065: m_hdllInstance: необъявленный идентификатор
+C:\ObjectARX\inc\arxEntryPoint.h(149,63): error C2039: "localNameID": не является членом "_ARXCOMMAND_ENTRY".
+C:\ObjectARX\inc\arxEntryPoint.h(23): message : см. объявление "_ARXCOMMAND_ENTRY"
+C:\ObjectARX\inc\arxEntryPoint.h(149,1): error C3861: LoadString: идентификатор не найден
+C:\ObjectARX\inc\arxEntryPoint.h(158,76): error C2065: m_hdllInstance: необъявленный идентификатор
+C:\ObjectARX\inc\arxEntryPoint.h(198,23): error C2039: "LoadString": не является членом "`global namespace'".
+C:\ObjectARX\inc\arxEntryPoint.h(198,35): error C2065: m_hdllInstance: необъявленный идентификатор
+C:\ObjectARX\inc\arxEntryPoint.h(198,63): error C2039: "nameID": не является членом "_ADSSYMBOL_ENTRY".
+C:\ObjectARX\inc\arxEntryPoint.h(71): message : см. объявление "_ADSSYMBOL_ENTRY"
+C:\ObjectARX\inc\arxEntryPoint.h(198,1): error C3861: LoadString: идентификатор не найден
+C:\ObjectARX\inc\arxEntryPoint.h(221,23): error C2039: "LoadString": не является членом "`global namespace'".
+C:\ObjectARX\inc\arxEntryPoint.h(221,35): error C2065: m_hdllInstance: необъявленный идентификатор
+C:\ObjectARX\inc\arxEntryPoint.h(221,63): error C2039: "nameID": не является членом "_ADSSYMBOL_ENTRY".
+C:\ObjectARX\inc\arxEntryPoint.h(71): message : см. объявление "_ADSSYMBOL_ENTRY"
+C:\ObjectARX\inc\arxEntryPoint.h(221,1): error C3861: LoadString: идентификатор не найден
+C:\ObjectARX\inc\acprofile.h(34,41): error C2061: синтаксическая ошибка: идентификатор "BOOL"
+C:\ObjectARX\inc\acprofile.h(36,41): error C2061: синтаксическая ошибка: идентификатор "BOOL"
+C:\ObjectARX\inc\acprofile.h(75,13): error C2061: синтаксическая ошибка: идентификатор "IUnknown"
+C:\ObjectARX\inc\acprofile.h(77,13): error C2061: синтаксическая ошибка: идентификатор "IUnknown"
+C:\ObjectARX\inc\acprofile.h(79,13): error C2061: синтаксическая ошибка: идентификатор "IUnknown"
